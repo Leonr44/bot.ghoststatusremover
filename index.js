@@ -35,8 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
+const statusMessages = ["Watching Volcron-4","Commanderknighttt"];
 
 
 let currentIndex = 0;
